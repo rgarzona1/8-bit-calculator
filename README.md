@@ -23,7 +23,7 @@ Proyecto personal de práctica web
 📷 Imágenes del proyecto:
 --------------------------
 
-![Captura 1](./assets/screenshots/calculator-before.JPG)  
+![Captura 1](src/assets/screenshots/calculator-before.JPG)  
 ![Captura 2](src/assets/screenshots/calculator-after.JPG)
 ![Captura 3](src/assets/screenshots/calculator-after-2.JPG)
 
