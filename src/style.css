@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(152, 240, 247);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  background-image: url('C:/Users/Rodrigo Garzona/calculator/src/assets/Ocean_8/1.png');
+  padding: 420px;
+  padding-top: 40px;
+  max-width: 50%;
+  overflow: hidden;
+}
